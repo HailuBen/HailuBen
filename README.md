@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HailuBen
 - 👀 I’m interested in ... Web Design!
-- 🌱 I’m currently learning ... Web Design!
+- 🌱 I’m currently learning ... Web Design & Development.
 <!-- - 💞️ I’m looking to collaborate on ... Web Design! -->
 <!-- - 📫 How to reach me ... Web-
 .WIP. -->
